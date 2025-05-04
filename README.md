@@ -86,7 +86,8 @@ Responda somente a perguntas relacionadas a FURIA. Isso é fundamental.
 
 ## 📸 Capturas de tela
 
-![Bot em ação](![Sem título](https://github.com/user-attachments/assets/ee988872-5303-4ded-aeaf-542a670dc7e4))
+##Bot em ação
+https://github.com/user-attachments/assets/ee988872-5303-4ded-aeaf-542a670dc7e4
 ![Menu principal do bot](![image](https://github.com/user-attachments/assets/cdc300df-ac8a-4af5-8e9b-207d1307ebee))
 
 ---
