@@ -18,7 +18,6 @@ Desenvolver um chatbot para o Telegram que permita aos fãs da FURIA:
 - [**Figma**](https://www.figma.com/) – criação da landing page
 - [**GitHub**](https://github.com/) – documentação e repositório
 - [**OBS Studio**](https://obsproject.com/) – gravação do vídeo demonstrativo
-- 
 ---
 
 ## 🚀 Como funciona
