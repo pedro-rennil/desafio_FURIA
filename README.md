@@ -40,6 +40,7 @@ As informações são buscadas diretamente do site da FURIA, HLTV e bo3.gg (com 
 - 🔗 **Bot no Webchat:** [Bot Furioso](https://cdn.botpress.cloud/webchat/v2.4/shareable.html?configUrl=https://files.bpcontent.cloud/2025/05/04/05/20250504053241-WGKZER78.json)
 - 🌍 **Landing Page:** [Figma](https://www.figma.com/proto/okeRgW96fbPRFUX8xLVCBH/Furioso?node-id=8-408&t=gyO8AtsXvjDASomR-1)
 - 🎬 **Vídeo de Demonstração:**
+
 https://github.com/user-attachments/assets/8de55244-8556-45b2-a819-c9aabcbe7ad3
 
 ---
@@ -88,7 +89,7 @@ Responda somente a perguntas relacionadas a FURIA. Isso é fundamental.
 
 ## Bot em ação
 ![Sem título](https://github.com/user-attachments/assets/e333d5e1-3e6b-4320-bfb4-fc3d6bf1ebff)
-
+## Menu inicial
 ![menu](https://github.com/user-attachments/assets/97e6c269-4b46-492c-a3a2-af758b536867)
 
 
