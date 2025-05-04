@@ -3,11 +3,9 @@ Desafio técnico para vaga de assistente de engenharia de software da FURIA TECH
 # 🤖 Chatbot da FURIA - Suporte e Acompanhamento para Fãs
 
 <div align="center">
-  <img src="https://imgur.com/SEU_LOGO_AQUI.png" width="200" alt="Logo FURIA">
+  <img src="https://imgur.com/a/AHE2uQn" width="200" alt="Logo FURIA">
   <p>Um assistente virtual para fãs acompanharem jogos, notícias e interagirem com o time!</p>
-  
-  [![Landing Page](https://img.shields.io/badge/Acesse-Landing_Page-FFD700?style=for-the-badge&logo=telegram)](https://furia-chat.carrd.co)
-  [![Vídeo Demo](https://img.shields.io/badge/Assista-Vídeo-000000?style=for-the-badge&logo=youtube)](https://youtu.be/SEU_VIDEO)
+
 </div>
 
 ---
@@ -18,7 +16,7 @@ Desafio técnico para vaga de assistente de engenharia de software da FURIA TECH
 | **Menu Interativo**   | Quick Replies para navegação fácil                                        |
 | **Próximos Jogos**    | Calendário atualizado dos jogos do time                                   |
 | **Notícias**          | Últimas atualizações com links para matérias completas                    |
-| **Torcida Virtual**   | Gritos de torcida aleatórios e envio de áudio                             |
+| **Informações sobre a FURIA e criadores de conteudo**   | Gritos de torcida aleatórios e envio de áudio                             |
 | **Notificações**      | Alertas para jogos ao vivo (via Telegram)                                 |
 
 ---
@@ -33,20 +31,19 @@ Desafio técnico para vaga de assistente de engenharia de software da FURIA TECH
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- **Plataforma**: [ManyChat](https://manychat.com/) (ou Botpress - conforme sua escolha)
-- **Integrações**: API do Telegram, Google Sheets (para dados dinâmicos)
-- **Hospedagem**: Render (webhook) ou ManyChat Cloud
-- **Landing Page**: [Carrd.co](https://carrd.co) (ou GitHub Pages)
+- **Plataforma**: [Botpress](https://botpress.com/pt)
+- **Integrações**: Utilização de IA para constante busca. verificação e atualização dos dados passados ao usuário
+- **Landing Page**: Figma
 
 ---
 
 ## 📥 Como Usar
 1. **Acesse o Bot**:
-   - Via Telegram: [t.me/NomeDoSeuBot](https://t.me/NomeDoSeuBot)
+   - Via Webchat: [Chat Furioso](https://cdn.botpress.cloud/webchat/v2.4/shareable.html?configUrl=https://files.bpcontent.cloud/2025/05/04/05/20250504053241-WGKZER78.json)
    - Ou escaneie o QR Code abaixo:
 
    <div align="center">
-     <img src="screenshots/qrcode.png" width="150" alt="QR Code">
+     ![frame](https://github.com/user-attachments/assets/95e7784f-8be6-4b9a-b852-19c740fa79d0)
    </div>
 
 2. **Interaja**:
@@ -56,7 +53,8 @@ Desafio técnico para vaga de assistente de engenharia de software da FURIA TECH
 ---
 
 ## 🎥 Vídeo Demonstrativo
-[![Vídeo Demo](https://imgur.com/SEU_THUMBNAIL.jpg)](https://youtu.be/SEU_VIDEO)
+
+https://github.com/user-attachments/assets/84fe0bb5-f023-4e6e-841c-9d531482f98d
 
 ---
 
