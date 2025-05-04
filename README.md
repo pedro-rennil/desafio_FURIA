@@ -1,4 +1,4 @@
-# 🤖 Chatbot Fã da FURIA
+# 🤖 O Chatbot Furioso 
 
 Este projeto foi desenvolvido como parte do **Desafio Técnico da FURIA Tech** para a vaga de **Assistente de Engenharia de Software**. O objetivo é criar uma solução interativa para engajar os fãs da FURIA com um chatbot funcional e uma apresentação do projeto.
 
