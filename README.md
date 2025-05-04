@@ -1,61 +1,67 @@
-# desafio_FURIA
-Desafio técnico para vaga de assistente de engenharia de software da FURIA TECH
-# 🤖 Chatbot da FURIA - Suporte e Acompanhamento para Fãs
+# 🤖 Chatbot Fã da FURIA
 
-<div align="center">
-  <img src="https://imgur.com/a/AHE2uQn" width="200" alt="Logo FURIA">
-  <p>Um assistente virtual para fãs acompanharem jogos, notícias e interagirem com o time!</p>
+Este projeto foi desenvolvido como parte do **Desafio Técnico da FURIA Tech** para a vaga de **Assistente de Engenharia de Software**. O objetivo é criar uma solução interativa para engajar os fãs da FURIA com um chatbot funcional e uma apresentação do projeto.
 
-</div>
+## 💡 Objetivo
 
----
+Desenvolver um chatbot para o Telegram que permita aos fãs da FURIA:
 
-## 🚀 Funcionalidades Principais
-| Recurso               | Descrição                                                                 |
-|-----------------------|---------------------------------------------------------------------------|
-| **Menu Interativo**   | Quick Replies para navegação fácil                                        |
-| **Próximos Jogos**    | Calendário atualizado dos jogos do time                                   |
-| **Notícias**          | Últimas atualizações com links para matérias completas                    |
-| **Informações sobre a FURIA e criadores de conteudo**   | Gritos de torcida aleatórios e envio de áudio                             |
-| **Notificações**      | Alertas para jogos ao vivo (via Telegram)                                 |
-
----
-
-## 📸 Screenshots
-<div align="center">
-  <img src="screenshots/print1.jpg" width="30%" alt="Menu Principal">
-  <img src="screenshots/print2.jpg" width="30%" alt="Notícias">
-  <img src="screenshots/print3.jpg" width="30%" alt="Jogos">
-</div>
+- 📰 Acompanhar as últimas notícias do time
+- 🕹️ Ver a data e horário das próximas partidas
+- 🎉 Descobrir curiosidades e informações sobre os jogadores e a organização
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- **Plataforma**: [Botpress](https://botpress.com/pt)
-- **Integrações**: Utilização de IA para constante busca. verificação e atualização dos dados passados ao usuário
-- **Landing Page**: Figma
+
+- [**Botpress**](https://botpress.com/) – plataforma de criação de chatbots
+- [**Figma**](https://www.figma.com/) – criação da landing page
+- [**GitHub**](https://github.com/) – documentação e repositório
+- [**OBS Studio / Loom**](https://obsproject.com/ / https://www.loom.com/) – gravação do vídeo demonstrativo
 
 ---
 
-## 📥 Como Usar
-1. **Acesse o Bot**:
-   - Via Webchat: [Chat Furioso](https://cdn.botpress.cloud/webchat/v2.4/shareable.html?configUrl=https://files.bpcontent.cloud/2025/05/04/05/20250504053241-WGKZER78.json)
-   - Ou escaneie o QR Code abaixo:
+## 🗂️ Estrutura do Projeto
 
-   <div align="center">
-     ![frame](https://github.com/user-attachments/assets/95e7784f-8be6-4b9a-b852-19c740fa79d0)
-   </div>
+📁 chatbot-furia/
+├── README.md
+├── .botpress/ # Fluxos do bot
+├── screenshots/ # Capturas de tela do bot
+└── assets/ # Ícones, logo da FURIA, mídia usada
 
-2. **Interaja**:
-   - Envie "Olá" para iniciar
-   - Use os botões para navegar
 
 ---
 
-## 🎥 Vídeo Demonstrativo
+## 🚀 Como funciona
 
-https://github.com/user-attachments/assets/84fe0bb5-f023-4e6e-841c-9d531482f98d
+1. O usuário inicia o bot no Webchat.
+2. Um menu interativo aparece com as opções:
+   1. Próximos jogos do time de CS2
+   2. Estatísticas do time de CS2 da FURIA
+   3. Notícias
+   4. Mais informações sobre a FURIA
+3. O Botpress interpreta a intenção e retorna as informações corretas.
+
+As informações são buscadas diretamente do site da FURIA, HLTV e bo3.gg (com scraping leve utilizando IA).
 
 ---
 
-## 📂 Estrutura do Projeto
+## 🌐 Acesse
+
+- 🔗 **Bot no Webchat:** [Bot Furioso](https://cdn.botpress.cloud/webchat/v2.4/shareable.html?configUrl=https://files.bpcontent.cloud/2025/05/04/05/20250504053241-WGKZER78.json)
+- 🌍 **Landing Page:** [Figma](https://www.figma.com/proto/okeRgW96fbPRFUX8xLVCBH/Furioso?node-id=8-408&t=gyO8AtsXvjDASomR-1)
+- 🎬 **Vídeo de Demonstração:**
+
+https://github.com/user-attachments/assets/8de55244-8556-45b2-a819-c9aabcbe7ad3
+
+
+---
+
+## 📸 Capturas de tela
+
+![Bot em ação](![image](https://github.com/user-attachments/assets/92733149-c1e5-4cfa-acc0-3043f22123af))
+![Menu principal do bot](![image](https://github.com/user-attachments/assets/cdc300df-ac8a-4af5-8e9b-207d1307ebee))
+
+---
+
+Desenvolvido por [Pedro Rennil](https://github.com/pedro-rennil)
