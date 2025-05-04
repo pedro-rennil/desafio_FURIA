@@ -17,7 +17,7 @@ Desenvolver um chatbot para o Telegram que permita aos fãs da FURIA:
 - [**Botpress**](https://botpress.com/) – plataforma de criação de chatbots
 - [**Figma**](https://www.figma.com/) – criação da landing page
 - [**GitHub**](https://github.com/) – documentação e repositório
-- [**OBS Studio / Loom**](https://obsproject.com/ / https://www.loom.com/) – gravação do vídeo demonstrativo
+- [**OBS Studio**](https://obsproject.com/) – gravação do vídeo demonstrativo
 - 
 ---
 
@@ -37,12 +37,9 @@ As informações são buscadas diretamente do site da FURIA, HLTV e bo3.gg (com 
 
 ## 🌐 Acesse
 
-- 🔗 **Bot no Webchat:** [Bot Furioso](
-    <script src="https://cdn.botpress.cloud/webchat/v2.4/inject.js"></script>
-<script src="https://files.bpcontent.cloud/2025/05/04/05/20250504053240-AT129I84.js"></script>)
+- 🔗 **Bot no Webchat:** [Bot Furioso](https://cdn.botpress.cloud/webchat/v2.4/shareable.html?configUrl=https://files.bpcontent.cloud/2025/05/04/05/20250504053241-WGKZER78.json)
 - 🌍 **Landing Page:** [Figma](https://www.figma.com/proto/okeRgW96fbPRFUX8xLVCBH/Furioso?node-id=8-408&t=gyO8AtsXvjDASomR-1)
 - 🎬 **Vídeo de Demonstração:**
-
 https://github.com/user-attachments/assets/8de55244-8556-45b2-a819-c9aabcbe7ad3
 
 ---
@@ -89,7 +86,7 @@ Responda somente a perguntas relacionadas a FURIA. Isso é fundamental.
 
 ## 📸 Capturas de tela
 
-![Bot em ação](![image](https://github.com/user-attachments/assets/92733149-c1e5-4cfa-acc0-3043f22123af))
+![Bot em ação](![Sem título](https://github.com/user-attachments/assets/ee988872-5303-4ded-aeaf-542a670dc7e4))
 ![Menu principal do bot](![image](https://github.com/user-attachments/assets/cdc300df-ac8a-4af5-8e9b-207d1307ebee))
 
 ---
